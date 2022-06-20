@@ -1,16 +1,16 @@
  
 #!/bin/bash
-#Coder:VioSensei
+#Coder:Sami Yusuf Eskin
 #İnstagram: samiyusuf.py
 #Youtube : Sami Yusuf Eskin
 echo -e '
 
-      \e[35m ■         Coder : VioSensei    ■
-	  \e[34m■	     Github : VioSensei     ■
+      \e[35m ■         Coder : Sami Yusuf Eskin    ■
+	  \e[34m■	     Github : Sami Yusuf Eskin     ■
 	 \e[33m■ 	    Youtube : Sami Yusuf Eskin        ■
 	\e[32m■ 	   İnstagram : samiyusuf.py        ■
 	
-\e[36m 	 IMHATIMI.ORG - VIOSENSEI
+\e[36m 	 IMHATIMI.ORG - Sami Yusuf Eskin
 \e[36m TOOLARIN HEPSINI ANASAYFAYA KURAR 
 \e[36m CIKMAK ICIN CTRL+C
 \e[35m[1]\e[33mTermux Güncelle		
